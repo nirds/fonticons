@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["betsy@nird.us"]
   spec.description   = %q{Custom icon font for NIRD website}
   spec.summary       = %q{Uses a fontello custom font file}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/nirds/fonticons"
   spec.license       = "MIT"
 
   spec.files         = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
